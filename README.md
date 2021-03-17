@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @DracoRex679
+- 👀 I’m interested in developing Python projects particularly Python projects that involve speech, audio, calculations, and images, but any Python project is fair game in these repositories.
